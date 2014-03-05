@@ -1,0 +1,642 @@
+TCH05_SLQTSOR
+v7
+r0
+t350420251.142471
+cCheck dependencies
+cProcessInfoPlistFile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/Info.plist" CH05_SLQTSOR-Info.plist
+cCompileXIB "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib"
+cCpResource build/Release-iphonesimulator/CH05_SLQTSOR.app/knight.gif knight.gif
+cProcessPCH /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch.gch CH05_SLQTSOR_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR" normal i386
+cGenerateDSYMFile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app.dSYM" "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR"
+cTouch "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D09B07B0000000000000132
+t1292480635
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004BFDFF0A000000000000094F
+t1274937098
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004BFDFF0A0000000000000A61
+t1274937098
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BFDFF0A0000000000009369
+t1274937098
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BFDFF0A0000000000003C4A
+t1274937098
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BFDFF120000000000019D60
+t1274937106
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.h
+c000000004A9C0341000000000000079B
+t1251738433
+s1947
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m
+c000000004A99560A0000000000000316
+t1251563018
+s790
+i"AbstractScene.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR_Prefix.pch
+c000000004A9407090000000000000138
+t1251215113
+s312
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.h
+c000000004A940D0D000000000000052B
+t1251216653
+s1323
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"ESRenderer.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m
+c000000004B91005D0000000000001456
+t1267794013
+s5206
+i"EAGLView.h"
+i"ES1Renderer.h"
+i"GameController.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.h
+c000000004ABCFDF300000000000002D0
+t1253899763
+s720
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m
+c000000004B91191C0000000000001129
+t1267800348
+s4393
+i"ES1Renderer.h"
+i"GameController.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ESRenderer.h
+c000000004A9407090000000000000151
+t1251215113
+s337
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.h
+c000000004ABCFDE900000000000001BB
+t1253899753
+s443
+i<UIKit/UIKit.h>
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m
+c000000004A94070900000000000002E8
+t1251215113
+s744
+i"SLQTSORAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.h
+c000000004A9BD0EE000000000000036E
+t1251725550
+s878
+i<OpenGLES/ES1/gl.h>
+i"SynthesizeSingleton.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m
+c000000004B91265E0000000000000726
+t1267803742
+s1830
+i"GameController.h"
+i"GameScene.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.h
+c000000004B8EE9C5000000000000016F
+t1267657157
+s367
+i"AbstractScene.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m
+c000000004C34680800000000000004C7
+t1278502920
+s1223
+i"GameScene.h"
+i"Image.h"
+i"ImageRenderManager.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Global.h
+c000000004B8569F8000000000000053E
+t1267034616
+s1342
+i<OpenGLES/ES1/gl.h>
+i"Structures.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.h
+c000000004C345C6D0000000000001E72
+t1278499949
+s7794
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m
+c000000004C346760000000000000390B
+t1278502752
+s14603
+i"Image.h"
+i"Texture2D.h"
+i"TextureManager.h"
+i"ImageRenderManager.h"
+i"GameController.h"
+i"AbstractScene.h"
+i"Transform2D.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.h
+c000000004B895FB10000000000000E34
+t1267294129
+s3636
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"SynthesizeSingleton.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m
+c000000004F315AA40000000000001CB0
+t1328634532
+s7344
+i"ImageRenderManager.h"
+i"Image.h"
+i"GameController.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib
+c000000004A994C580000000000004876
+t1251560536
+s18550
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Structures.h
+c000000004ABE1634000000000000050F
+t1253971508
+s1295
+i<OpenGLES/ES1/gl.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/SynthesizeSingleton.h
+c0000000049FE5B3F00000000000004FA
+t1241406271
+s1274
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.h
+c000000004B38F4120000000000000A96
+t1262023698
+s2710
+i<OpenGLES/ES1/gl.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m
+c000000004C345414000000000000285F
+t1278497812
+s10335
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.h
+c000000004B9E0A48000000000000052D
+t1268648520
+s1325
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m
+c000000004BBEE5E300000000000008CE
+t1270801891
+s2254
+i"TextureManager.h"
+i"SynthesizeSingleton.h"
+i"Texture2D.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Transform2D.h
+c000000004ABD0B5D000000000000105B
+t1253903197
+s4187
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o
+t1314123722
+s39012
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/CH05_SLQTSOR.LinkFileList
+c000000004E4E4C41000000000000086E
+t1313754177
+s2158
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o
+t1314123722
+s47480
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o
+t1314123722
+s17076
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o
+t1314123722
+s19964
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o
+t1314123722
+s14220
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o
+t1314123722
+s49488
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o
+t1328727449
+s20056
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o
+t1314123722
+s47184
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o
+t1314123722
+s21096
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o
+t1314123722
+s17740
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o
+t1314123722
+s6408
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app
+t1328727451
+s238
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app.dSYM
+t1328727451
+s102
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR
+t1328727450
+s78812
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/Info.plist
+t1314123719
+s611
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/MainWindow.nib
+t1313754178
+s1160
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/PkgInfo
+t1314123719
+s8
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/knight.gif
+t1314123719
+s2504
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/knight.gif
+c000000004A8069B000000000000009C8
+t1249929648
+s2504
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m
+c000000004A9407090000000000000169
+t1251215113
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-brinmnirjbjhfefbfsfscmoxzqax/CH05_SLQTSOR_Prefix.pch.gch
+t1313754178
+s14896144
+
+N/var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch.gch
+t1314123721
+s14875664
+
+NCH05_SLQTSOR-Info.plist
+c000000004A940709000000000000038D
+t1251215113
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350420246#350420247#0(0"0(0#1#0"8668838624#0"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816522.268713
+e335816522.431387
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@117"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m335816522#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#109"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m8617083072#2735"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816521.851655
+e335816522.336697
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@120"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m335816521#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#112"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m8619859136#2733"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816521.852778
+e335816522.302883
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@123"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m335816521#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#115"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m8619613536#2739"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816522.152601
+e335816522.367154
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@118"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m335816522#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#110"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m8613801792#2737"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816522.303023
+e335816522.483292
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@113"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m335816522#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#105"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m8614346624#2727"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816522.336843
+e335816522.802481
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@109"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m335816522#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#101"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m8617026368#2719"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350420247.805263
+e350420249.960473
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@122"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m350420247#350420249#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#114"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m8660785184#2745"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816521.850791
+e335816522.268554
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@130"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m335816521#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#122"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m8620625344#2753"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816522.367308
+e335816522.615074
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@113"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m335816522#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#105"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m8619695872#2727"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816522.483442
+e335816522.631442
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@118"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m335816522#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#110"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m8613239744#2737"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o"0#
+
+CCompileC build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816521.849707
+e335816522.152453
+r1
+xCompileC
+xbuild/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@108"Compile /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m335816521#335816522#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#100"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m8616989056#2717"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -include /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib"
+s335446977.979581
+e335446978.381595
+r1
+xCompileXIB
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335446977#335446978#0(0"0(0#0#108"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib8622332384#748"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/MainWindow.nib" "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Release-iphonesimulator/CH05_SLQTSOR.app/knight.gif knight.gif
+s335816519.026188
+e335816519.098126
+r1
+xCpResource
+xbuild/Release-iphonesimulator/CH05_SLQTSOR.app/knight.gif
+xknight.gif
+lSLF07#2@15"Copy knight.gif335816519#335816519#0(0"0(0#0#104"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/knight.gif8614790816#667"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/knight.gif" "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app"0#
+
+CGenerateDSYMFile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app.dSYM" "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR"
+s350420250.876332
+e350420251.123644
+r1
+xGenerateDSYMFile
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app.dSYM
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR
+lSLF07#2@128"GenerateDSYMFile build/Release-iphonesimulator/CH05_SLQTSOR.app.dSYM build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR350420250#350420251#0(0"0(0#0#153"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR8667231456#573"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR" -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app.dSYM"0#
+
+CLd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR" normal i386
+s350420249.960698
+e350420250.876222
+r1
+xLd
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR
+xnormal
+xi386
+lSLF07#2@158"Link /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR350420249#350420250#0(0"0(0#0#0"8652704320#1260"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" -filelist "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/CH05_SLQTSOR.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR"0#
+
+CProcessInfoPlistFile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/Info.plist" CH05_SLQTSOR-Info.plist
+s335816519.022469
+e335816519.025923
+r1
+xProcessInfoPlistFile
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/Info.plist
+xCH05_SLQTSOR-Info.plist
+lSLF07#2@31"Process CH05_SLQTSOR-Info.plist335816519#335816519#0(0"0(0#0#117"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR-Info.plist6860442694291780608#669"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CH05_SLQTSOR-Info.plist -genpkginfo "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app/Info.plist"0#
+
+CProcessPCH /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-brinmnirjbjhfefbfsfscmoxzqax/CH05_SLQTSOR_Prefix.pch.gch CH05_SLQTSOR_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335446978.381754
+e335446979.018887
+r1
+xProcessPCH
+x/var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-brinmnirjbjhfefbfsfscmoxzqax/CH05_SLQTSOR_Prefix.pch.gch
+xCH05_SLQTSOR_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CH05_SLQTSOR_Prefix.pch335446978#335446979#0(0"0(0#0#117"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR_Prefix.pch8623548064#2491"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR_Prefix.pch" -o /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-brinmnirjbjhfefbfsfscmoxzqax/CH05_SLQTSOR_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch.gch CH05_SLQTSOR_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335816519.098256
+e335816521.849469
+r1
+xProcessPCH
+x/var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch.gch
+xCH05_SLQTSOR_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@34"Precompile CH05_SLQTSOR_Prefix.pch335816519#335816521#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#117"/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR_Prefix.pch8611023008#2545"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-generated-files.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-own-target-headers.hmap" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-all-target-headers.hmap" -iquote "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/CH05_SLQTSOR-project-headers.hmap" "-F/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/include" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources/i386" "-I/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Release-iphonesimulator/CH05_SLQTSOR.build/DerivedSources" -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR_Prefix.pch" -o /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-hjecsmwungqrtbfbebingoaejmqa/CH05_SLQTSOR_Prefix.pch.gch0#
+
+CTouch "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app"
+s350420251.123736
+e350420251.142426
+r1
+xTouch
+x/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app
+lSLF07#2@146"Touch /Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app350420251#350420251#0(0"0(0#0#0"8668151104#399"    cd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Release-iphonesimulator/CH05_SLQTSOR.app"0#
+

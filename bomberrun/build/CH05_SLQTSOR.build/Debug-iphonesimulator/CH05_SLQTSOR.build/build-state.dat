@@ -1,0 +1,422 @@
+TCH05_SLQTSOR
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C5CCAFE0000000000000132
+t1281149694
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004BFDFF0A000000000000094F
+t1274937098
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004BFDFF0A0000000000000A61
+t1274937098
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BFDFF0A0000000000009369
+t1274937098
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BFDFF0A0000000000003C4A
+t1274937098
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BFDFF120000000000019D60
+t1274937106
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.h
+c000000004A9C0341000000000000079B
+t1251738433
+s1947
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m
+c000000004A99560A0000000000000316
+t1251563018
+s790
+i"AbstractScene.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/CH05_SLQTSOR_Prefix.pch
+c000000004A9407090000000000000138
+t1251215113
+s312
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.h
+c000000004A940D0D000000000000052B
+t1251216653
+s1323
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"ESRenderer.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m
+c000000004B91005D0000000000001456
+t1267794013
+s5206
+i"EAGLView.h"
+i"ES1Renderer.h"
+i"GameController.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.h
+c000000004ABCFDF300000000000002D0
+t1253899763
+s720
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m
+c000000004B91191C0000000000001129
+t1267800348
+s4393
+i"ES1Renderer.h"
+i"GameController.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ESRenderer.h
+c000000004A9407090000000000000151
+t1251215113
+s337
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.h
+c000000004ABCFDE900000000000001BB
+t1253899753
+s443
+i<UIKit/UIKit.h>
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m
+c000000004A94070900000000000002E8
+t1251215113
+s744
+i"SLQTSORAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.h
+c000000004A9BD0EE000000000000036E
+t1251725550
+s878
+i<OpenGLES/ES1/gl.h>
+i"SynthesizeSingleton.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m
+c000000004B91265E0000000000000726
+t1267803742
+s1830
+i"GameController.h"
+i"GameScene.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.h
+c000000004B8EE9C5000000000000016F
+t1267657157
+s367
+i"AbstractScene.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m
+c000000004C34680800000000000004C7
+t1278502920
+s1223
+i"GameScene.h"
+i"Image.h"
+i"ImageRenderManager.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Global.h
+c000000004B8569F8000000000000053E
+t1267034616
+s1342
+i<OpenGLES/ES1/gl.h>
+i"Structures.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.h
+c000000004C345C6D0000000000001E72
+t1278499949
+s7794
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m
+c000000004C346760000000000000390B
+t1278502752
+s14603
+i"Image.h"
+i"Texture2D.h"
+i"TextureManager.h"
+i"ImageRenderManager.h"
+i"GameController.h"
+i"AbstractScene.h"
+i"Transform2D.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.h
+c000000004B895FB10000000000000E34
+t1267294129
+s3636
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"SynthesizeSingleton.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m
+c000000004B978F910000000000001C93
+t1268223889
+s7315
+i"ImageRenderManager.h"
+i"Image.h"
+i"GameController.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib
+c000000004A994C580000000000004876
+t1251560536
+s18550
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Structures.h
+c000000004ABE1634000000000000050F
+t1253971508
+s1295
+i<OpenGLES/ES1/gl.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/SynthesizeSingleton.h
+c0000000049FE5B3F00000000000004FA
+t1241406271
+s1274
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.h
+c000000004B38F4120000000000000A96
+t1262023698
+s2710
+i<OpenGLES/ES1/gl.h>
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m
+c000000004C345414000000000000285F
+t1278497812
+s10335
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.h
+c000000004B9E0A48000000000000052D
+t1268648520
+s1325
+i"Global.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m
+c000000004BBEE5E300000000000008CE
+t1270801891
+s2254
+i"TextureManager.h"
+i"SynthesizeSingleton.h"
+i"Texture2D.h"
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Transform2D.h
+c000000004ABD0B5D000000000000105B
+t1253903197
+s4187
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/CH05_SLQTSOR.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app.dSYM
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/Info.plist
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/MainWindow.nib
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/PkgInfo
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/knight.gif
+t2
+s0
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/knight.gif
+c000000004A8069B000000000000009C8
+t1249929648
+s2504
+
+N/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m
+c000000004A9407090000000000000169
+t1251215113
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-dbrcykiudcpkjkheimbeioickymp/CH05_SLQTSOR_Prefix.pch.gch
+t2
+s0
+
+NCH05_SLQTSOR-Info.plist
+c000000004A940709000000000000038D
+t1251215113
+s909
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/AbstractScene.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/AbstractScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/EAGLView.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/EAGLView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ES1Renderer.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/ES1Renderer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameController.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/GameScene.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/GameScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Image.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/ImageRenderManager.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/ImageRenderManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/SLQTSORAppDelegate.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Classes/SLQTSORAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/Texture2D.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/Texture2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/TextureManager.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/TextureManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CH05_SLQTSOR.build/Debug-iphonesimulator/CH05_SLQTSOR.build/Objects-normal/i386/main.o "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/CH05_SLQTSOR.app/knight.gif knight.gif
+r0
+
+CGenerateDSYMFile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app.dSYM" "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR"
+r0
+
+CLd "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/CH05_SLQTSOR" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app/Info.plist" CH05_SLQTSOR-Info.plist
+r0
+
+CProcessPCH /var/folders/A1/A1fn4Ri3EBa0gbFKVTPyn++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CH05_SLQTSOR_Prefix-dbrcykiudcpkjkheimbeioickymp/CH05_SLQTSOR_Prefix.pch.gch CH05_SLQTSOR_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/gouaich/Documents/Work/Recherche/task/2011-08-16 Cours Iphone/source code/CH05 SLQTSOR/build/Debug-iphonesimulator/CH05_SLQTSOR.app"
+r0
+
